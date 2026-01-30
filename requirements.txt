@@ -1,3 +1,10 @@
 fastapi
 uvicorn
 gunicorn
+numpy
+pillow
+opencv-python-headless
+scikit-learn
+tensorflow
+torch
+torchvision
